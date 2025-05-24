@@ -1,13 +1,14 @@
 # Hi welcome!
 ```js
-const zappy = new Furry();
+const stella = new Furry();
 
-zappy.website = 'https://protozappy.art';
+// website development on pause rn :(
+// stella.website = 'https://protozappy.art';
 
-zappy.attributes = {
-  names: ['Zappy/ProtoZappy', 'Stella'],
+stella.attributes = {
+  names: ['Stella', 'vyxtella'],
   age: 20,
-  currentOccupation: ['Salad chef', 'IS student'],
+  currentOccupation: ['Pro salad chef', 'IS + CS student'],
   hobbies: [
     'Digital art',
     'Web development',
@@ -20,14 +21,15 @@ zappy.attributes = {
   appleEnthusiast: true
 };
 
-zappy.codeLanguages = [
+stella.codeLanguages = [
   'HTML',
   'CSS',
   'JavaScript',
-  'Swift'
+  'Swift',
+  'More coming soon trust'
 ];
 
-zappy.languageLanguages = [
+stella.languageLanguages = [
   'English',
   'Français',
   '日本語'
