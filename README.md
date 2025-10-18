@@ -1,22 +1,22 @@
 # Hi welcome!
 ```js
-const stella = new Furry();
+const stella = new Fox();
 
-// website development on pause rn :(
-// stella.website = 'https://protozappy.art';
+stella.website = 'https://vyxx.dev';
 
 stella.attributes = {
   names: ['Stella', 'vyxtella'],
-  age: 20,
+  pronouns: 'she / her',
+  gender: 'Trans gurl',
+  age: 21,
   currentOccupation: ['Pro salad chef', 'IS + CS student'],
   hobbies: [
+    'Developing ma projects',
+    'Pokémon card collecting',
+    'Vinyl records',
     'Digital art',
-    'Web development',
-    'Drumset/Percussion',
-    'Viola',
-    'Music composition',
-    'Vinyl record-collecting',
-    'Urbanism/Cycling/Public transit'
+    'Photography sometimes',
+    'Being rich'
   ],
   appleEnthusiast: true
 };
