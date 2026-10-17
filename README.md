@@ -9,7 +9,7 @@ stella.attributes = {
   pronouns: 'she // her',
   gender: 'trans gurl',
   age: 22,
-  currentOccupation: ['2nd year CS + IS student', 'secretary mcgee'],
+  currentOccupation: ['2nd year cs+is student @ u of u', 'secretary mcgee, also @ u of u'],
   hobbies: [
     'developing ma projects',
     'drawing cute lil furry guys',
