@@ -1,37 +1,33 @@
-# Hi welcome!
+# haiiiiii
 ```js
 const stella = new Fox();
 
 stella.website = 'https://vyxx.dev';
 
 stella.attributes = {
-  names: ['Stella', 'vyxtella'],
-  pronouns: 'she / her',
-  gender: 'Trans gurl',
-  age: 21,
-  currentOccupation: ['Pro salad chef', 'IS + CS student'],
+  names: ['vyxtella', 'stella', 'éstelle'],
+  pronouns: 'she // her',
+  gender: 'trans gurl',
+  age: 22,
+  currentOccupation: ['2nd year CS + IS student', 'secretary mcgee'],
   hobbies: [
-    'Developing ma projects',
-    'Pokémon card collecting',
-    'Vinyl records',
-    'Digital art',
-    'Photography sometimes',
-    'Being rich'
+    'developing ma projects',
+    'drawing cute lil furry guys',
+    'obsessing over utdr',
+    'pokémon card collecting',
+    'autism?? bruh idk what else to put here',
   ],
-  appleEnthusiast: true
 };
 
-stella.codeLanguages = [
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'Swift',
-  'More coming soon trust'
+stella.knownCodeLanguages = [
+  'javascript (node + web)',
+  'html+css',
+  'java unfortunately',
 ];
 
-stella.languageLanguages = [
-  'English',
-  'Français',
-  '日本語'
+stella.knownLanguages = [
+  'english',
+  'français kinda',
+  '日本語 kiiiiiinda'
 ];
 ```
